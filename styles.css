@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    margin-top: 50px;
+    border: 30px;
+}
+ul {
+    color: aqua;
+    font-size: 28px;
+    padding: 10px;
+    margin: 50px;
+    list-style: none;
+}
+.recipe-link {
+    margin: 30px;
+}
